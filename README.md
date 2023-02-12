@@ -31,7 +31,7 @@ This visualization shows the number range of airbnb listings in certain regions 
 The topic that appeals most to me is data visualization, especailly learning more about the python packages pandas and numpy. These topics seem to be interesting because of the concepts that can be learned and applied to create different visualizations for various data sets I could be interested in the future. 
 
 
-*SearchED data and/or articles related to the topics from #1 and #2, and wrote down a list of links to my search results.*
+*Searched data and/or articles related to the topics from #1 and #2, and wrote down a list of links to my search results.*
 
 * [Pandas](https://pandas.pydata.org/)
 * [Social Media and Mental Health](https://www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm)
